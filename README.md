@@ -4,7 +4,7 @@ This project demonstrates a simple implementation of **Login** and **Signup** pa
 ## Sample of website
 - **Signup Page**
 
-  ()![Recording2025-01-01022214-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5f1995e3-6015-40f6-991f-03104d59912d)
+  ![Recording2025-01-01022214-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5f1995e3-6015-40f6-991f-03104d59912d)
 
 
 
