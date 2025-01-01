@@ -5,7 +5,7 @@ This project demonstrates a simple implementation of **Login** and **Signup** pa
 - **Signup Page**
 
 
-![Uploading Recording2025-01-01022214-ezgif.com-video-to-gif-converter.gif…]()
+![Uploading ui.gif…]()
 
 
 
