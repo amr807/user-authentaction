@@ -5,8 +5,8 @@ This project demonstrates a simple implementation of **Login** and **Signup** pa
 - **Signup Page**
 
 
-![Uploading ui.gif…]()
 
+![Uploading Recording 2025-01-01 022214.gif…]()
 
 
 
