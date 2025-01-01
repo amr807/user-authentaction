@@ -1,7 +1,13 @@
 # Login and Signup Pages - Next.js  
 
 This project demonstrates a simple implementation of **Login** and **Signup** pages using 
-## Features  
+## Sample of website
+- **Signup Page**  
+![Uploading Recording2025-01-01022214-ezgif.com-video-to-gif-converter.gif…]()
+
+- **Login Page**
+  
+  
 
 - **Login Page**  
   - User authentication with email and password.  
@@ -13,7 +19,6 @@ This project demonstrates a simple implementation of **Login** and **Signup** pa
   - Password strength validation.  
   - Confirmation message upon successful registration.  
 
-- Responsive design for both desktop and mobile devices.  
 
 ## Technologies Used
 
@@ -24,6 +29,7 @@ This project demonstrates a simple implementation of **Login** and **Signup** pa
 - [TypeScript](https://www.typescriptlang.org/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [next-themes](https://github.com/pacocoursey/next-themes)
+
 
 
 
