@@ -4,7 +4,12 @@ This project demonstrates a simple implementation of **Login** and **Signup** pa
 ## Sample of website
 - **Signup Page**
 
+
+
 ![Uploading ui.gif…]()
+
+
+
 
 
 - **Login Page**  
