@@ -12,6 +12,11 @@ This project demonstrates a simple implementation of **Login** and **Signup** pa
 
 
 
+
+
+
+
+
 - **Login Page**  
   - User authentication with email and password.  
   - Form validation for required fields.  
