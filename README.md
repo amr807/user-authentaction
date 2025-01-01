@@ -4,9 +4,7 @@ This project demonstrates a simple implementation of **Login** and **Signup** pa
 ## Sample of website
 - **Signup Page**
 
-
-  
-  ![Recording 2025-01-01 022214](https://github.com/user-attachments/assets/53ffff2e-56e4-4a45-a6d3-dc71ff71a511)
+![Uploading ui.gif…]()
 
 
 - **Login Page**  
