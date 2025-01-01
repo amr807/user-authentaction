@@ -6,15 +6,8 @@ This project demonstrates a simple implementation of **Login** and **Signup** pa
 
 
 
-![Uploading ui.gif…]()
 
-
-
-
-
-
-
-
+![ui](https://github.com/user-attachments/assets/7f218e8d-c8fa-47d4-bc91-9323359d9a3f)
 
 
 - **Login Page**  
