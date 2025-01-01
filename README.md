@@ -2,8 +2,16 @@
 
 This project demonstrates a simple implementation of **Login** and **Signup** pages using 
 ## Sample of website
-- **Signup Page**  
+- **Signup Page**
+
+  
 ![Uploading Recording2025-01-01022214-ezgif.com-video-to-gif-converter.gif…]()
+
+
+
+
+
+
 
 - **Login Page**
   
