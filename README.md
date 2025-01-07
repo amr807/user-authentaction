@@ -1,6 +1,6 @@
 # Login and Signup Pages - Next.js  
 
-This project demonstrates a simple implementation of **Login** and **Signup** pages using 
+This project demonstrates a  implementation of **Login** and **Signup** pages using 
 
 - **Login Page**  
   - User authentication with email and password.  
