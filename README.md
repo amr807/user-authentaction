@@ -1,11 +1,6 @@
 # Login and Signup Pages - Next.js  
 
 This project demonstrates a simple implementation of **Login** and **Signup** pages using 
-## Sample of website
-- **Signup Page**
-  
-![ui](https://github.com/user-attachments/assets/7f218e8d-c8fa-47d4-bc91-9323359d9a3f)
-
 
 - **Login Page**  
   - User authentication with email and password.  
@@ -55,7 +50,10 @@ The application was struggling to handle different types of API responses, which
 - [Framer Motion](https://www.framer.com/motion/)
 - [next-themes](https://github.com/pacocoursey/next-themes)
 
-
+## Sample of website
+- **Signup Page**
+  
+![ui](https://github.com/user-attachments/assets/7f218e8d-c8fa-47d4-bc91-9323359d9a3f)
 
 
 
