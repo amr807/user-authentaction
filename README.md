@@ -16,7 +16,7 @@ This project demonstrates a simple implementation of **Login** and **Signup** pa
   - User registration with name, email, and password.  
   - Confirmation message upon successful registration.
  
-## challenge
+## Challenges
 
 ### 1. Fixed Resource Leaks
 #### Problem
