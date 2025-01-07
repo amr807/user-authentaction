@@ -11,7 +11,7 @@ This project demonstrates a simple implementation of **Login** and **Signup** pa
   - User registration with name, email, and password.  
   - Confirmation message upon successful registration.
  
-# Challenges
+## Challenges
 
 ### 1. Fixed Resource Leaks
 #### Problem
@@ -24,7 +24,7 @@ The application had resource leaks, leading to inefficient resource management a
 #### Outcome
 - Efficient resource management, reducing the likelihood of performance bottlenecks and crashes due to resource leaks.
 
--
+
 
 ### 2. Improved API Response Handling
 #### Problem
