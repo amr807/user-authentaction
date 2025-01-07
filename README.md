@@ -24,7 +24,7 @@ The application had resource leaks, leading to inefficient resource management a
 #### Outcome
 - Efficient resource management, reducing the likelihood of performance bottlenecks and crashes due to resource leaks.
 
----
+-
 
 ### 2. Improved API Response Handling
 #### Problem
@@ -38,7 +38,7 @@ The application was struggling to handle different types of API responses, which
 - Increased application stability by ensuring the app reacts correctly to all API responses.
 - Enhanced user experience by providing smoother handling of edge cases.
 
----
+-
 
 ## Technologies Used
 
