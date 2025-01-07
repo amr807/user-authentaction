@@ -14,9 +14,36 @@ This project demonstrates a simple implementation of **Login** and **Signup** pa
 
 - **Signup Page**  
   - User registration with name, email, and password.  
-  - Password strength validation.  
-  - Confirmation message upon successful registration.  
+  - Confirmation message upon successful registration.
+ 
+## challenge
 
+### 1. Fixed Resource Leaks
+#### Problem
+The application had resource leaks, leading to inefficient resource management and performance degradation.
+
+#### Solution
+- Implemented the use of `suspend` for better control over resource allocation and cleanup.
+- Ensured proper handling of resources, preventing unnecessary consumption and improving overall performance.
+
+#### Outcome
+- Efficient resource management, reducing the likelihood of performance bottlenecks and crashes due to resource leaks.
+
+---
+
+### 2. Improved API Response Handling
+#### Problem
+The application was struggling to handle different types of API responses, which caused unexpected errors and crashes.
+
+#### Solution
+- Added conditional statements to process various API responses (success, failure, and error).
+- Implemented robust handling for different response scenarios, ensuring appropriate app behavior.
+
+#### Outcome
+- Increased application stability by ensuring the app reacts correctly to all API responses.
+- Enhanced user experience by providing smoother handling of edge cases.
+
+---
 
 ## Technologies Used
 
